@@ -72,11 +72,6 @@
     <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </a>
 
----
-
-<a href="https://visitcount.itsvg.in" target="_blank">
-    <img align="center" src="https://visitcount.itsvg.in/api?id=Bryan-Giitwa&icon=0&color=0" alt="Visit Count" />
-</a>
 <br/>
 
 <hr/>
