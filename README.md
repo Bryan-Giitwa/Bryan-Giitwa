@@ -29,7 +29,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/bryan-wangui-096736247/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah al mehmud" height="30" width="40" /></a>
 <a href="https://www.instagram.com/__giitwa__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abduĺlah al mehmud" height="30" width="40" /></a>
-<a href="https://wa.me/254703816487" target="_blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" height="30" width="40" /></a>
+<a href="https://wa.me/254703816487" target="_blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" height="30" width="80" /></a>
 </p>
 <br/>
 <br/>
