@@ -1,14 +1,14 @@
 ![MasterHead](https://chkskills.com/wp-content/uploads/2020/04/PNC-Animated-Banners.gif)
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Bryan+Giitwa!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Bryan+Giitwa!;" />
 </h1>
 <h3 align="center" >A passionate Full-stack  developer from Kenya</h3>
 <br/>
 <div align="center">
      <h3 align="center">💻What I Do?💻</h3>
 <h4 align="center">
- 🚀 Hey there! I'm a MERN stack developer, which means I'm into creating cool websites and apps. I'm like a tech chef, using MongoDB, Express.js, React.js, and Node.js to make everything work smoothly.Always learning and staying updated on the latest tech trends.🚀
+ 🚀 I'm a MERN stack developer, which means I'm into creating cool websites and apps. I'm like a tech chef, using MongoDB, Express.js, React.js, and Node.js to make everything work smoothly.Always learning and staying updated on the latest tech trends.🚀
 </h4>
 </div>
 
@@ -37,7 +37,7 @@
  <h3 align="center">⚒️ Languages - Frameworks - Tools ⚒️</h3>
 <p align="center"> 
     <img src="https://skillicons.dev/icons?i=nodejs,github,mysql,javascript,python,django,react,express,mongodb,vscode&theme=dark" />  <br/>
-     <img  src="https://skillicons.dev/icons?i=html,css,scss,bootstrap,git,npm,linux,Apache,postman&theme=dark" />
+     <img  src="https://skillicons.dev/icons?i=html,css,scss,bootstrap,git,npm,linux,postman&theme=dark" />
     
 </p>
 
@@ -53,7 +53,31 @@
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Bryan-Giitwa&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
-<br/><br/>
+<br/>
+<hr>
+
+### 🔰 Soft skills
+
+✅ Work collaboratively in a team
+
+✅ Problem solving skills
+
+✅ Good communication skills
+
+<hr>
+
+### ✍️ Random Dev Quote
+
+<a href="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" target="_blank">
+    <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</a>
+
+---
+
+<a href="https://visitcount.itsvg.in" target="_blank">
+    <img align="center" src="https://visitcount.itsvg.in/api?id=Bryan-Giitwa&icon=0&color=0" alt="Visit Count" />
+</a>
+<br/>
 
 <hr/>
 
