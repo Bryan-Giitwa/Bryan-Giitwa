@@ -66,18 +66,16 @@
 
 <hr>
 
-### ✍️ Random Dev Quote
+### ✍️ Random Deveveloper Quote
 
 <a href="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" target="_blank">
     <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </a>
 
-<br/>
-
-<hr/>
+<br/><br/>
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Email!📧;+Text+me+on+Whatsapp🤙;I'm+always+down+to+collab+:)">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Email!+📧;+Text+me+on+Whatsapp+🤙;I'm+always+down+to+collab+:)">
 </h3>
 
 <br/>
