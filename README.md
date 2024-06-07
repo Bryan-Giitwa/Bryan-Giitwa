@@ -19,7 +19,7 @@
 
 - 🔭 I’m currently working on **something unique projects😎😎**
 
-- 🌱 I’m currently learning **React , Node , Express , Firebase , MongoDB**
+- 🌱 I’m currently learning **React , Node , Express , MongoDB**
 
 - 💬 Ask me about **anything ,,,but no personal..lol😜😜**
 
@@ -37,8 +37,8 @@
 <br/>
  <h3 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h3>
 <p align="center"> 
-    <img src="https://skillicons.dev/icons?i=nodejs,github,javascript,react,express,firebase,mongodb,vscode,c&theme=dark" />  <br/>
-     <img  src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,git&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=nodejs,github,javascript,react,express,mongodb,vscode&theme=dark" />  <br/>
+     <img  src="https://skillicons.dev/icons?i=html,css,scss,bootstrap,git&theme=dark" />
     
 </p>
 
